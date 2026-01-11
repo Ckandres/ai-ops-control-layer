@@ -1,0 +1,27 @@
+{
+  "name": "ai-ops-control-layer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ckandres/ai-ops-control-layer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Ckandres/ai-ops-control-layer/issues"
+  },
+  "homepage": "https://github.com/Ckandres/ai-ops-control-layer#readme",
+  "dependencies": {
+    "@notionhq/client": "^5.6.0",
+    "@supabase/supabase-js": "^2.90.1",
+    "dotenv": "^17.2.3",
+    "zod": "^4.3.5"
+  }
+}
